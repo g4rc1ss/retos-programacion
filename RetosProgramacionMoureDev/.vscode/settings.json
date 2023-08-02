@@ -1,3 +1,6 @@
 {
-    "dotnet.defaultSolution": "Reto 00 El famoso FIZZBUZZ/Reto 00 El famoso FIZZBUZZ.sln"
+    "dotnet.defaultSolution": "Reto 00 El famoso FIZZBUZZ/Reto 00 El famoso FIZZBUZZ.sln",
+    "rust-analyzer.linkedProjects": [
+        "Reto 02 El partido de Tenis/partidoTenis/Cargo.toml"
+    ]
 }
