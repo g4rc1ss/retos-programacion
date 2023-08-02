@@ -1,0 +1,2431 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7640C7AC297FD9DC000B259B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7640C7AB297FD9DC000B259B /* main.swift */; };
+		7640C847297FDAC5000B259B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7640C846297FDAC5000B259B /* main.swift */; };
+		7640C852297FDAD2000B259B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7640C851297FDAD2000B259B /* main.swift */; };
+		7640C85D297FDADE000B259B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7640C85C297FDADE000B259B /* main.swift */; };
+		7640C868297FDAEA000B259B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7640C867297FDAEA000B259B /* main.swift */; };
+		7640C873297FDAF2000B259B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7640C872297FDAF2000B259B /* main.swift */; };
+		7640C87E297FDB01000B259B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7640C87D297FDB01000B259B /* main.swift */; };
+		7640C889297FDB0B000B259B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7640C888297FDB0B000B259B /* main.swift */; };
+		7640C894297FDB14000B259B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7640C893297FDB14000B259B /* main.swift */; };
+		7640C89F297FDB1F000B259B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7640C89E297FDB1F000B259B /* main.swift */; };
+		7640C8AA297FDB26000B259B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7640C8A9297FDB26000B259B /* main.swift */; };
+		7640C8B5297FDB34000B259B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7640C8B4297FDB34000B259B /* main.swift */; };
+		7640C8C0297FDB3D000B259B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7640C8BF297FDB3D000B259B /* main.swift */; };
+		7640C8CB297FDB46000B259B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7640C8CA297FDB46000B259B /* main.swift */; };
+		7640C8D6297FDB51000B259B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7640C8D5297FDB51000B259B /* main.swift */; };
+		7640C8E1297FDB5A000B259B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7640C8E0297FDB5A000B259B /* main.swift */; };
+		7640C8EC297FDB62000B259B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7640C8EB297FDB62000B259B /* main.swift */; };
+		7640C8F7297FDB69000B259B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7640C8F6297FDB69000B259B /* main.swift */; };
+		7640C902297FDB70000B259B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7640C901297FDB70000B259B /* main.swift */; };
+		7640C90D297FDB78000B259B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7640C90C297FDB78000B259B /* main.swift */; };
+		7640C918297FDB83000B259B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7640C917297FDB83000B259B /* main.swift */; };
+		7640C923297FDB8C000B259B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7640C922297FDB8C000B259B /* main.swift */; };
+		7640C92E297FDB92000B259B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7640C92D297FDB92000B259B /* main.swift */; };
+		7640C939297FDB98000B259B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7640C938297FDB98000B259B /* main.swift */; };
+		7640C944297FDB9F000B259B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7640C943297FDB9F000B259B /* main.swift */; };
+		7640C94B297FF3AD000B259B /* 1Exercise in CopyFiles */ = {isa = PBXBuildFile; fileRef = 7640C949297FE06F000B259B /* 1Exercise */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		7640C7A7297FD9DC000B259B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 12;
+			dstPath = "";
+			dstSubfolderSpec = 16;
+			files = (
+				7640C94B297FF3AD000B259B /* 1Exercise in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C842297FDAC4000B259B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		7640C84D297FDAD2000B259B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		7640C858297FDADD000B259B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		7640C863297FDAEA000B259B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		7640C86E297FDAF2000B259B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		7640C879297FDB01000B259B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		7640C884297FDB0B000B259B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		7640C88F297FDB14000B259B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		7640C89A297FDB1E000B259B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		7640C8A5297FDB25000B259B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		7640C8B0297FDB33000B259B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		7640C8BB297FDB3C000B259B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		7640C8C6297FDB45000B259B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		7640C8D1297FDB50000B259B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		7640C8DC297FDB59000B259B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		7640C8E7297FDB61000B259B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		7640C8F2297FDB69000B259B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		7640C8FD297FDB6F000B259B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		7640C908297FDB77000B259B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		7640C913297FDB82000B259B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		7640C91E297FDB8A000B259B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		7640C929297FDB91000B259B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		7640C934297FDB97000B259B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		7640C93F297FDB9E000B259B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		7640C7A9297FD9DC000B259B /* Year2022.Day01.CalorieCounting */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Year2022.Day01.CalorieCounting; sourceTree = BUILT_PRODUCTS_DIR; };
+		7640C7AB297FD9DC000B259B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7640C844297FDAC4000B259B /* Year2022.Day02.RockPaperScissors */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Year2022.Day02.RockPaperScissors; sourceTree = BUILT_PRODUCTS_DIR; };
+		7640C846297FDAC5000B259B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7640C84F297FDAD2000B259B /* Year2022.Day03.RucksackReorganization */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Year2022.Day03.RucksackReorganization; sourceTree = BUILT_PRODUCTS_DIR; };
+		7640C851297FDAD2000B259B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7640C85A297FDADD000B259B /* Year2022.Day04.CampCleanup */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Year2022.Day04.CampCleanup; sourceTree = BUILT_PRODUCTS_DIR; };
+		7640C85C297FDADE000B259B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7640C865297FDAEA000B259B /* Year2022.Day05.SupplyStacks */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Year2022.Day05.SupplyStacks; sourceTree = BUILT_PRODUCTS_DIR; };
+		7640C867297FDAEA000B259B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7640C870297FDAF2000B259B /* Year2022.Day06.TuningTrouble */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Year2022.Day06.TuningTrouble; sourceTree = BUILT_PRODUCTS_DIR; };
+		7640C872297FDAF2000B259B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7640C87B297FDB01000B259B /* Year2022.Day07.NoSpaceLeftOnDeviec */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Year2022.Day07.NoSpaceLeftOnDeviec; sourceTree = BUILT_PRODUCTS_DIR; };
+		7640C87D297FDB01000B259B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7640C886297FDB0B000B259B /* Year2022.Day08.TreetopTreeHouse */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Year2022.Day08.TreetopTreeHouse; sourceTree = BUILT_PRODUCTS_DIR; };
+		7640C888297FDB0B000B259B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7640C891297FDB14000B259B /* Year2022.Day09.RopeBridge */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Year2022.Day09.RopeBridge; sourceTree = BUILT_PRODUCTS_DIR; };
+		7640C893297FDB14000B259B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7640C89C297FDB1E000B259B /* Year2022.Day10.CathodeRayTube */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Year2022.Day10.CathodeRayTube; sourceTree = BUILT_PRODUCTS_DIR; };
+		7640C89E297FDB1F000B259B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7640C8A7297FDB25000B259B /* Year2022.Day11.MonkeyInTheMiddle */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Year2022.Day11.MonkeyInTheMiddle; sourceTree = BUILT_PRODUCTS_DIR; };
+		7640C8A9297FDB26000B259B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7640C8B2297FDB33000B259B /* Year2022.Day12.HillClimbingAlgorith */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Year2022.Day12.HillClimbingAlgorith; sourceTree = BUILT_PRODUCTS_DIR; };
+		7640C8B4297FDB34000B259B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7640C8BD297FDB3C000B259B /* Year2022.Day13.DistressSignal */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Year2022.Day13.DistressSignal; sourceTree = BUILT_PRODUCTS_DIR; };
+		7640C8BF297FDB3D000B259B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7640C8C8297FDB45000B259B /* Year2022.Day14.RegolithReservoir */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Year2022.Day14.RegolithReservoir; sourceTree = BUILT_PRODUCTS_DIR; };
+		7640C8CA297FDB46000B259B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7640C8D3297FDB50000B259B /* Year2022.Day15.BeaconExclusionZone */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Year2022.Day15.BeaconExclusionZone; sourceTree = BUILT_PRODUCTS_DIR; };
+		7640C8D5297FDB51000B259B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7640C8DE297FDB59000B259B /* Year2022.Day16.ProboscideaVolcanium */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Year2022.Day16.ProboscideaVolcanium; sourceTree = BUILT_PRODUCTS_DIR; };
+		7640C8E0297FDB5A000B259B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7640C8E9297FDB61000B259B /* Year2022.Day17.PyroclasticFlow */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Year2022.Day17.PyroclasticFlow; sourceTree = BUILT_PRODUCTS_DIR; };
+		7640C8EB297FDB62000B259B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7640C8F4297FDB69000B259B /* Year2022.Day18.BoilingBoulders */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Year2022.Day18.BoilingBoulders; sourceTree = BUILT_PRODUCTS_DIR; };
+		7640C8F6297FDB69000B259B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7640C8FF297FDB6F000B259B /* Year2022.Day19.NotEnoughMinerals */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Year2022.Day19.NotEnoughMinerals; sourceTree = BUILT_PRODUCTS_DIR; };
+		7640C901297FDB70000B259B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7640C90A297FDB77000B259B /* Year2022.Day20.GrovePositioningSystem */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Year2022.Day20.GrovePositioningSystem; sourceTree = BUILT_PRODUCTS_DIR; };
+		7640C90C297FDB78000B259B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7640C915297FDB82000B259B /* Year2022.Day21.MonkeyMath */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Year2022.Day21.MonkeyMath; sourceTree = BUILT_PRODUCTS_DIR; };
+		7640C917297FDB83000B259B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7640C920297FDB8B000B259B /* Year2022.Day22.MonkeyMap */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Year2022.Day22.MonkeyMap; sourceTree = BUILT_PRODUCTS_DIR; };
+		7640C922297FDB8C000B259B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7640C92B297FDB91000B259B /* Year2022.Day23.UnstableDiffusion */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Year2022.Day23.UnstableDiffusion; sourceTree = BUILT_PRODUCTS_DIR; };
+		7640C92D297FDB92000B259B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7640C936297FDB97000B259B /* Year2022.Day24.BlizzardBasin */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Year2022.Day24.BlizzardBasin; sourceTree = BUILT_PRODUCTS_DIR; };
+		7640C938297FDB98000B259B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7640C941297FDB9E000B259B /* Year2022.Day25.FullOfHotAir */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Year2022.Day25.FullOfHotAir; sourceTree = BUILT_PRODUCTS_DIR; };
+		7640C943297FDB9F000B259B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7640C948297FDC15000B259B /* Enunciado.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Enunciado.md; sourceTree = "<group>"; };
+		7640C949297FE06F000B259B /* 1Exercise */ = {isa = PBXFileReference; lastKnownFileType = text; path = 1Exercise; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7640C7A6297FD9DC000B259B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C841297FDAC4000B259B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C84C297FDAD2000B259B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C857297FDADD000B259B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C862297FDAEA000B259B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C86D297FDAF2000B259B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C878297FDB01000B259B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C883297FDB0B000B259B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C88E297FDB14000B259B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C899297FDB1E000B259B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C8A4297FDB25000B259B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C8AF297FDB33000B259B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C8BA297FDB3C000B259B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C8C5297FDB45000B259B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C8D0297FDB50000B259B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C8DB297FDB59000B259B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C8E6297FDB61000B259B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C8F1297FDB69000B259B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C8FC297FDB6F000B259B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C907297FDB77000B259B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C912297FDB82000B259B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C91D297FDB8A000B259B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C928297FDB91000B259B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C933297FDB97000B259B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C93E297FDB9E000B259B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7640C7AA297FD9DC000B259B /* Year2022.Day01.CalorieCounting */ = {
+			isa = PBXGroup;
+			children = (
+				7640C7AB297FD9DC000B259B /* main.swift */,
+				7640C948297FDC15000B259B /* Enunciado.md */,
+				7640C949297FE06F000B259B /* 1Exercise */,
+			);
+			path = Year2022.Day01.CalorieCounting;
+			sourceTree = "<group>";
+		};
+		7640C845297FDAC5000B259B /* Year2022.Day02.RockPaperScissors */ = {
+			isa = PBXGroup;
+			children = (
+				7640C846297FDAC5000B259B /* main.swift */,
+			);
+			path = Year2022.Day02.RockPaperScissors;
+			sourceTree = "<group>";
+		};
+		7640C850297FDAD2000B259B /* Year2022.Day03.RucksackReorganization */ = {
+			isa = PBXGroup;
+			children = (
+				7640C851297FDAD2000B259B /* main.swift */,
+			);
+			path = Year2022.Day03.RucksackReorganization;
+			sourceTree = "<group>";
+		};
+		7640C85B297FDADE000B259B /* Year2022.Day04.CampCleanup */ = {
+			isa = PBXGroup;
+			children = (
+				7640C85C297FDADE000B259B /* main.swift */,
+			);
+			path = Year2022.Day04.CampCleanup;
+			sourceTree = "<group>";
+		};
+		7640C866297FDAEA000B259B /* Year2022.Day05.SupplyStacks */ = {
+			isa = PBXGroup;
+			children = (
+				7640C867297FDAEA000B259B /* main.swift */,
+			);
+			path = Year2022.Day05.SupplyStacks;
+			sourceTree = "<group>";
+		};
+		7640C871297FDAF2000B259B /* Year2022.Day06.TuningTrouble */ = {
+			isa = PBXGroup;
+			children = (
+				7640C872297FDAF2000B259B /* main.swift */,
+			);
+			path = Year2022.Day06.TuningTrouble;
+			sourceTree = "<group>";
+		};
+		7640C87C297FDB01000B259B /* Year2022.Day07.NoSpaceLeftOnDeviec */ = {
+			isa = PBXGroup;
+			children = (
+				7640C87D297FDB01000B259B /* main.swift */,
+			);
+			path = Year2022.Day07.NoSpaceLeftOnDeviec;
+			sourceTree = "<group>";
+		};
+		7640C887297FDB0B000B259B /* Year2022.Day08.TreetopTreeHouse */ = {
+			isa = PBXGroup;
+			children = (
+				7640C888297FDB0B000B259B /* main.swift */,
+			);
+			path = Year2022.Day08.TreetopTreeHouse;
+			sourceTree = "<group>";
+		};
+		7640C892297FDB14000B259B /* Year2022.Day09.RopeBridge */ = {
+			isa = PBXGroup;
+			children = (
+				7640C893297FDB14000B259B /* main.swift */,
+			);
+			path = Year2022.Day09.RopeBridge;
+			sourceTree = "<group>";
+		};
+		7640C89D297FDB1F000B259B /* Year2022.Day10.CathodeRayTube */ = {
+			isa = PBXGroup;
+			children = (
+				7640C89E297FDB1F000B259B /* main.swift */,
+			);
+			path = Year2022.Day10.CathodeRayTube;
+			sourceTree = "<group>";
+		};
+		7640C8A8297FDB26000B259B /* Year2022.Day11.MonkeyInTheMiddle */ = {
+			isa = PBXGroup;
+			children = (
+				7640C8A9297FDB26000B259B /* main.swift */,
+			);
+			path = Year2022.Day11.MonkeyInTheMiddle;
+			sourceTree = "<group>";
+		};
+		7640C8B3297FDB34000B259B /* Year2022.Day12.HillClimbingAlgorith */ = {
+			isa = PBXGroup;
+			children = (
+				7640C8B4297FDB34000B259B /* main.swift */,
+			);
+			path = Year2022.Day12.HillClimbingAlgorith;
+			sourceTree = "<group>";
+		};
+		7640C8BE297FDB3D000B259B /* Year2022.Day13.DistressSignal */ = {
+			isa = PBXGroup;
+			children = (
+				7640C8BF297FDB3D000B259B /* main.swift */,
+			);
+			path = Year2022.Day13.DistressSignal;
+			sourceTree = "<group>";
+		};
+		7640C8C9297FDB46000B259B /* Year2022.Day14.RegolithReservoir */ = {
+			isa = PBXGroup;
+			children = (
+				7640C8CA297FDB46000B259B /* main.swift */,
+			);
+			path = Year2022.Day14.RegolithReservoir;
+			sourceTree = "<group>";
+		};
+		7640C8D4297FDB51000B259B /* Year2022.Day15.BeaconExclusionZone */ = {
+			isa = PBXGroup;
+			children = (
+				7640C8D5297FDB51000B259B /* main.swift */,
+			);
+			path = Year2022.Day15.BeaconExclusionZone;
+			sourceTree = "<group>";
+		};
+		7640C8DF297FDB5A000B259B /* Year2022.Day16.ProboscideaVolcanium */ = {
+			isa = PBXGroup;
+			children = (
+				7640C8E0297FDB5A000B259B /* main.swift */,
+			);
+			path = Year2022.Day16.ProboscideaVolcanium;
+			sourceTree = "<group>";
+		};
+		7640C8EA297FDB62000B259B /* Year2022.Day17.PyroclasticFlow */ = {
+			isa = PBXGroup;
+			children = (
+				7640C8EB297FDB62000B259B /* main.swift */,
+			);
+			path = Year2022.Day17.PyroclasticFlow;
+			sourceTree = "<group>";
+		};
+		7640C8F5297FDB69000B259B /* Year2022.Day18.BoilingBoulders */ = {
+			isa = PBXGroup;
+			children = (
+				7640C8F6297FDB69000B259B /* main.swift */,
+			);
+			path = Year2022.Day18.BoilingBoulders;
+			sourceTree = "<group>";
+		};
+		7640C900297FDB70000B259B /* Year2022.Day19.NotEnoughMinerals */ = {
+			isa = PBXGroup;
+			children = (
+				7640C901297FDB70000B259B /* main.swift */,
+			);
+			path = Year2022.Day19.NotEnoughMinerals;
+			sourceTree = "<group>";
+		};
+		7640C90B297FDB78000B259B /* Year2022.Day20.GrovePositioningSystem */ = {
+			isa = PBXGroup;
+			children = (
+				7640C90C297FDB78000B259B /* main.swift */,
+			);
+			path = Year2022.Day20.GrovePositioningSystem;
+			sourceTree = "<group>";
+		};
+		7640C916297FDB83000B259B /* Year2022.Day21.MonkeyMath */ = {
+			isa = PBXGroup;
+			children = (
+				7640C917297FDB83000B259B /* main.swift */,
+			);
+			path = Year2022.Day21.MonkeyMath;
+			sourceTree = "<group>";
+		};
+		7640C921297FDB8C000B259B /* Year2022.Day22.MonkeyMap */ = {
+			isa = PBXGroup;
+			children = (
+				7640C922297FDB8C000B259B /* main.swift */,
+			);
+			path = Year2022.Day22.MonkeyMap;
+			sourceTree = "<group>";
+		};
+		7640C92C297FDB92000B259B /* Year2022.Day23.UnstableDiffusion */ = {
+			isa = PBXGroup;
+			children = (
+				7640C92D297FDB92000B259B /* main.swift */,
+			);
+			path = Year2022.Day23.UnstableDiffusion;
+			sourceTree = "<group>";
+		};
+		7640C937297FDB98000B259B /* Year2022.Day24.BlizzardBasin */ = {
+			isa = PBXGroup;
+			children = (
+				7640C938297FDB98000B259B /* main.swift */,
+			);
+			path = Year2022.Day24.BlizzardBasin;
+			sourceTree = "<group>";
+		};
+		7640C942297FDB9F000B259B /* Year2022.Day25.FullOfHotAir */ = {
+			isa = PBXGroup;
+			children = (
+				7640C943297FDB9F000B259B /* main.swift */,
+			);
+			path = Year2022.Day25.FullOfHotAir;
+			sourceTree = "<group>";
+		};
+		765FC486297F54410058CFDA = {
+			isa = PBXGroup;
+			children = (
+				7640C7AA297FD9DC000B259B /* Year2022.Day01.CalorieCounting */,
+				7640C845297FDAC5000B259B /* Year2022.Day02.RockPaperScissors */,
+				7640C850297FDAD2000B259B /* Year2022.Day03.RucksackReorganization */,
+				7640C85B297FDADE000B259B /* Year2022.Day04.CampCleanup */,
+				7640C866297FDAEA000B259B /* Year2022.Day05.SupplyStacks */,
+				7640C871297FDAF2000B259B /* Year2022.Day06.TuningTrouble */,
+				7640C87C297FDB01000B259B /* Year2022.Day07.NoSpaceLeftOnDeviec */,
+				7640C887297FDB0B000B259B /* Year2022.Day08.TreetopTreeHouse */,
+				7640C892297FDB14000B259B /* Year2022.Day09.RopeBridge */,
+				7640C89D297FDB1F000B259B /* Year2022.Day10.CathodeRayTube */,
+				7640C8A8297FDB26000B259B /* Year2022.Day11.MonkeyInTheMiddle */,
+				7640C8B3297FDB34000B259B /* Year2022.Day12.HillClimbingAlgorith */,
+				7640C8BE297FDB3D000B259B /* Year2022.Day13.DistressSignal */,
+				7640C8C9297FDB46000B259B /* Year2022.Day14.RegolithReservoir */,
+				7640C8D4297FDB51000B259B /* Year2022.Day15.BeaconExclusionZone */,
+				7640C8DF297FDB5A000B259B /* Year2022.Day16.ProboscideaVolcanium */,
+				7640C8EA297FDB62000B259B /* Year2022.Day17.PyroclasticFlow */,
+				7640C8F5297FDB69000B259B /* Year2022.Day18.BoilingBoulders */,
+				7640C900297FDB70000B259B /* Year2022.Day19.NotEnoughMinerals */,
+				7640C90B297FDB78000B259B /* Year2022.Day20.GrovePositioningSystem */,
+				7640C916297FDB83000B259B /* Year2022.Day21.MonkeyMath */,
+				7640C921297FDB8C000B259B /* Year2022.Day22.MonkeyMap */,
+				7640C92C297FDB92000B259B /* Year2022.Day23.UnstableDiffusion */,
+				7640C937297FDB98000B259B /* Year2022.Day24.BlizzardBasin */,
+				7640C942297FDB9F000B259B /* Year2022.Day25.FullOfHotAir */,
+				765FC490297F54410058CFDA /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		765FC490297F54410058CFDA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7640C7A9297FD9DC000B259B /* Year2022.Day01.CalorieCounting */,
+				7640C844297FDAC4000B259B /* Year2022.Day02.RockPaperScissors */,
+				7640C84F297FDAD2000B259B /* Year2022.Day03.RucksackReorganization */,
+				7640C85A297FDADD000B259B /* Year2022.Day04.CampCleanup */,
+				7640C865297FDAEA000B259B /* Year2022.Day05.SupplyStacks */,
+				7640C870297FDAF2000B259B /* Year2022.Day06.TuningTrouble */,
+				7640C87B297FDB01000B259B /* Year2022.Day07.NoSpaceLeftOnDeviec */,
+				7640C886297FDB0B000B259B /* Year2022.Day08.TreetopTreeHouse */,
+				7640C891297FDB14000B259B /* Year2022.Day09.RopeBridge */,
+				7640C89C297FDB1E000B259B /* Year2022.Day10.CathodeRayTube */,
+				7640C8A7297FDB25000B259B /* Year2022.Day11.MonkeyInTheMiddle */,
+				7640C8B2297FDB33000B259B /* Year2022.Day12.HillClimbingAlgorith */,
+				7640C8BD297FDB3C000B259B /* Year2022.Day13.DistressSignal */,
+				7640C8C8297FDB45000B259B /* Year2022.Day14.RegolithReservoir */,
+				7640C8D3297FDB50000B259B /* Year2022.Day15.BeaconExclusionZone */,
+				7640C8DE297FDB59000B259B /* Year2022.Day16.ProboscideaVolcanium */,
+				7640C8E9297FDB61000B259B /* Year2022.Day17.PyroclasticFlow */,
+				7640C8F4297FDB69000B259B /* Year2022.Day18.BoilingBoulders */,
+				7640C8FF297FDB6F000B259B /* Year2022.Day19.NotEnoughMinerals */,
+				7640C90A297FDB77000B259B /* Year2022.Day20.GrovePositioningSystem */,
+				7640C915297FDB82000B259B /* Year2022.Day21.MonkeyMath */,
+				7640C920297FDB8B000B259B /* Year2022.Day22.MonkeyMap */,
+				7640C92B297FDB91000B259B /* Year2022.Day23.UnstableDiffusion */,
+				7640C936297FDB97000B259B /* Year2022.Day24.BlizzardBasin */,
+				7640C941297FDB9E000B259B /* Year2022.Day25.FullOfHotAir */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7640C7A8297FD9DC000B259B /* Year2022.Day01.CalorieCounting */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7640C7AD297FD9DC000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day01.CalorieCounting" */;
+			buildPhases = (
+				7640C7A5297FD9DC000B259B /* Sources */,
+				7640C7A6297FD9DC000B259B /* Frameworks */,
+				7640C7A7297FD9DC000B259B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Year2022.Day01.CalorieCounting;
+			productName = Year2022.Day01.CalorieCounting;
+			productReference = 7640C7A9297FD9DC000B259B /* Year2022.Day01.CalorieCounting */;
+			productType = "com.apple.product-type.tool";
+		};
+		7640C843297FDAC4000B259B /* Year2022.Day02.RockPaperScissors */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7640C848297FDAC5000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day02.RockPaperScissors" */;
+			buildPhases = (
+				7640C840297FDAC4000B259B /* Sources */,
+				7640C841297FDAC4000B259B /* Frameworks */,
+				7640C842297FDAC4000B259B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Year2022.Day02.RockPaperScissors;
+			productName = Year2022.Day02.RockPaperScissors;
+			productReference = 7640C844297FDAC4000B259B /* Year2022.Day02.RockPaperScissors */;
+			productType = "com.apple.product-type.tool";
+		};
+		7640C84E297FDAD2000B259B /* Year2022.Day03.RucksackReorganization */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7640C853297FDAD2000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day03.RucksackReorganization" */;
+			buildPhases = (
+				7640C84B297FDAD2000B259B /* Sources */,
+				7640C84C297FDAD2000B259B /* Frameworks */,
+				7640C84D297FDAD2000B259B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Year2022.Day03.RucksackReorganization;
+			productName = Year2022.Day03.RucksackReorganization;
+			productReference = 7640C84F297FDAD2000B259B /* Year2022.Day03.RucksackReorganization */;
+			productType = "com.apple.product-type.tool";
+		};
+		7640C859297FDADD000B259B /* Year2022.Day04.CampCleanup */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7640C85E297FDADE000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day04.CampCleanup" */;
+			buildPhases = (
+				7640C856297FDADD000B259B /* Sources */,
+				7640C857297FDADD000B259B /* Frameworks */,
+				7640C858297FDADD000B259B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Year2022.Day04.CampCleanup;
+			productName = Year2022.Day04.CampCleanup;
+			productReference = 7640C85A297FDADD000B259B /* Year2022.Day04.CampCleanup */;
+			productType = "com.apple.product-type.tool";
+		};
+		7640C864297FDAEA000B259B /* Year2022.Day05.SupplyStacks */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7640C869297FDAEA000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day05.SupplyStacks" */;
+			buildPhases = (
+				7640C861297FDAEA000B259B /* Sources */,
+				7640C862297FDAEA000B259B /* Frameworks */,
+				7640C863297FDAEA000B259B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Year2022.Day05.SupplyStacks;
+			productName = Year2022.Day05.SupplyStacks;
+			productReference = 7640C865297FDAEA000B259B /* Year2022.Day05.SupplyStacks */;
+			productType = "com.apple.product-type.tool";
+		};
+		7640C86F297FDAF2000B259B /* Year2022.Day06.TuningTrouble */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7640C874297FDAF2000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day06.TuningTrouble" */;
+			buildPhases = (
+				7640C86C297FDAF2000B259B /* Sources */,
+				7640C86D297FDAF2000B259B /* Frameworks */,
+				7640C86E297FDAF2000B259B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Year2022.Day06.TuningTrouble;
+			productName = Year2022.Day06.TuningTrouble;
+			productReference = 7640C870297FDAF2000B259B /* Year2022.Day06.TuningTrouble */;
+			productType = "com.apple.product-type.tool";
+		};
+		7640C87A297FDB01000B259B /* Year2022.Day07.NoSpaceLeftOnDeviec */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7640C87F297FDB01000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day07.NoSpaceLeftOnDeviec" */;
+			buildPhases = (
+				7640C877297FDB01000B259B /* Sources */,
+				7640C878297FDB01000B259B /* Frameworks */,
+				7640C879297FDB01000B259B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Year2022.Day07.NoSpaceLeftOnDeviec;
+			productName = Year2022.Day07.NoSpaceLeftOnDeviec;
+			productReference = 7640C87B297FDB01000B259B /* Year2022.Day07.NoSpaceLeftOnDeviec */;
+			productType = "com.apple.product-type.tool";
+		};
+		7640C885297FDB0B000B259B /* Year2022.Day08.TreetopTreeHouse */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7640C88A297FDB0B000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day08.TreetopTreeHouse" */;
+			buildPhases = (
+				7640C882297FDB0B000B259B /* Sources */,
+				7640C883297FDB0B000B259B /* Frameworks */,
+				7640C884297FDB0B000B259B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Year2022.Day08.TreetopTreeHouse;
+			productName = Year2022.Day08.TreetopTreeHouse;
+			productReference = 7640C886297FDB0B000B259B /* Year2022.Day08.TreetopTreeHouse */;
+			productType = "com.apple.product-type.tool";
+		};
+		7640C890297FDB14000B259B /* Year2022.Day09.RopeBridge */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7640C895297FDB14000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day09.RopeBridge" */;
+			buildPhases = (
+				7640C88D297FDB14000B259B /* Sources */,
+				7640C88E297FDB14000B259B /* Frameworks */,
+				7640C88F297FDB14000B259B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Year2022.Day09.RopeBridge;
+			productName = Year2022.Day09.RopeBridge;
+			productReference = 7640C891297FDB14000B259B /* Year2022.Day09.RopeBridge */;
+			productType = "com.apple.product-type.tool";
+		};
+		7640C89B297FDB1E000B259B /* Year2022.Day10.CathodeRayTube */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7640C8A0297FDB1F000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day10.CathodeRayTube" */;
+			buildPhases = (
+				7640C898297FDB1E000B259B /* Sources */,
+				7640C899297FDB1E000B259B /* Frameworks */,
+				7640C89A297FDB1E000B259B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Year2022.Day10.CathodeRayTube;
+			productName = Year2022.Day10.CathodeRayTube;
+			productReference = 7640C89C297FDB1E000B259B /* Year2022.Day10.CathodeRayTube */;
+			productType = "com.apple.product-type.tool";
+		};
+		7640C8A6297FDB25000B259B /* Year2022.Day11.MonkeyInTheMiddle */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7640C8AB297FDB26000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day11.MonkeyInTheMiddle" */;
+			buildPhases = (
+				7640C8A3297FDB25000B259B /* Sources */,
+				7640C8A4297FDB25000B259B /* Frameworks */,
+				7640C8A5297FDB25000B259B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Year2022.Day11.MonkeyInTheMiddle;
+			productName = Year2022.Day11.MonkeyInTheMiddle;
+			productReference = 7640C8A7297FDB25000B259B /* Year2022.Day11.MonkeyInTheMiddle */;
+			productType = "com.apple.product-type.tool";
+		};
+		7640C8B1297FDB33000B259B /* Year2022.Day12.HillClimbingAlgorith */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7640C8B6297FDB34000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day12.HillClimbingAlgorith" */;
+			buildPhases = (
+				7640C8AE297FDB33000B259B /* Sources */,
+				7640C8AF297FDB33000B259B /* Frameworks */,
+				7640C8B0297FDB33000B259B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Year2022.Day12.HillClimbingAlgorith;
+			productName = Year2022.Day12.HillClimbingAlgorith;
+			productReference = 7640C8B2297FDB33000B259B /* Year2022.Day12.HillClimbingAlgorith */;
+			productType = "com.apple.product-type.tool";
+		};
+		7640C8BC297FDB3C000B259B /* Year2022.Day13.DistressSignal */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7640C8C1297FDB3D000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day13.DistressSignal" */;
+			buildPhases = (
+				7640C8B9297FDB3C000B259B /* Sources */,
+				7640C8BA297FDB3C000B259B /* Frameworks */,
+				7640C8BB297FDB3C000B259B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Year2022.Day13.DistressSignal;
+			productName = Year2022.Day13.DistressSignal;
+			productReference = 7640C8BD297FDB3C000B259B /* Year2022.Day13.DistressSignal */;
+			productType = "com.apple.product-type.tool";
+		};
+		7640C8C7297FDB45000B259B /* Year2022.Day14.RegolithReservoir */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7640C8CC297FDB46000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day14.RegolithReservoir" */;
+			buildPhases = (
+				7640C8C4297FDB45000B259B /* Sources */,
+				7640C8C5297FDB45000B259B /* Frameworks */,
+				7640C8C6297FDB45000B259B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Year2022.Day14.RegolithReservoir;
+			productName = Year2022.Day14.RegolithReservoir;
+			productReference = 7640C8C8297FDB45000B259B /* Year2022.Day14.RegolithReservoir */;
+			productType = "com.apple.product-type.tool";
+		};
+		7640C8D2297FDB50000B259B /* Year2022.Day15.BeaconExclusionZone */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7640C8D7297FDB51000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day15.BeaconExclusionZone" */;
+			buildPhases = (
+				7640C8CF297FDB50000B259B /* Sources */,
+				7640C8D0297FDB50000B259B /* Frameworks */,
+				7640C8D1297FDB50000B259B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Year2022.Day15.BeaconExclusionZone;
+			productName = Year2022.Day15.BeaconExclusionZone;
+			productReference = 7640C8D3297FDB50000B259B /* Year2022.Day15.BeaconExclusionZone */;
+			productType = "com.apple.product-type.tool";
+		};
+		7640C8DD297FDB59000B259B /* Year2022.Day16.ProboscideaVolcanium */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7640C8E2297FDB5A000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day16.ProboscideaVolcanium" */;
+			buildPhases = (
+				7640C8DA297FDB59000B259B /* Sources */,
+				7640C8DB297FDB59000B259B /* Frameworks */,
+				7640C8DC297FDB59000B259B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Year2022.Day16.ProboscideaVolcanium;
+			productName = Year2022.Day16.ProboscideaVolcanium;
+			productReference = 7640C8DE297FDB59000B259B /* Year2022.Day16.ProboscideaVolcanium */;
+			productType = "com.apple.product-type.tool";
+		};
+		7640C8E8297FDB61000B259B /* Year2022.Day17.PyroclasticFlow */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7640C8ED297FDB62000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day17.PyroclasticFlow" */;
+			buildPhases = (
+				7640C8E5297FDB61000B259B /* Sources */,
+				7640C8E6297FDB61000B259B /* Frameworks */,
+				7640C8E7297FDB61000B259B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Year2022.Day17.PyroclasticFlow;
+			productName = Year2022.Day17.PyroclasticFlow;
+			productReference = 7640C8E9297FDB61000B259B /* Year2022.Day17.PyroclasticFlow */;
+			productType = "com.apple.product-type.tool";
+		};
+		7640C8F3297FDB69000B259B /* Year2022.Day18.BoilingBoulders */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7640C8F8297FDB69000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day18.BoilingBoulders" */;
+			buildPhases = (
+				7640C8F0297FDB69000B259B /* Sources */,
+				7640C8F1297FDB69000B259B /* Frameworks */,
+				7640C8F2297FDB69000B259B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Year2022.Day18.BoilingBoulders;
+			productName = Year2022.Day18.BoilingBoulders;
+			productReference = 7640C8F4297FDB69000B259B /* Year2022.Day18.BoilingBoulders */;
+			productType = "com.apple.product-type.tool";
+		};
+		7640C8FE297FDB6F000B259B /* Year2022.Day19.NotEnoughMinerals */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7640C903297FDB70000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day19.NotEnoughMinerals" */;
+			buildPhases = (
+				7640C8FB297FDB6F000B259B /* Sources */,
+				7640C8FC297FDB6F000B259B /* Frameworks */,
+				7640C8FD297FDB6F000B259B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Year2022.Day19.NotEnoughMinerals;
+			productName = Year2022.Day19.NotEnoughMinerals;
+			productReference = 7640C8FF297FDB6F000B259B /* Year2022.Day19.NotEnoughMinerals */;
+			productType = "com.apple.product-type.tool";
+		};
+		7640C909297FDB77000B259B /* Year2022.Day20.GrovePositioningSystem */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7640C90E297FDB78000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day20.GrovePositioningSystem" */;
+			buildPhases = (
+				7640C906297FDB77000B259B /* Sources */,
+				7640C907297FDB77000B259B /* Frameworks */,
+				7640C908297FDB77000B259B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Year2022.Day20.GrovePositioningSystem;
+			productName = Year2022.Day20.GrovePositioningSystem;
+			productReference = 7640C90A297FDB77000B259B /* Year2022.Day20.GrovePositioningSystem */;
+			productType = "com.apple.product-type.tool";
+		};
+		7640C914297FDB82000B259B /* Year2022.Day21.MonkeyMath */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7640C919297FDB83000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day21.MonkeyMath" */;
+			buildPhases = (
+				7640C911297FDB82000B259B /* Sources */,
+				7640C912297FDB82000B259B /* Frameworks */,
+				7640C913297FDB82000B259B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Year2022.Day21.MonkeyMath;
+			productName = Year2022.Day21.MonkeyMath;
+			productReference = 7640C915297FDB82000B259B /* Year2022.Day21.MonkeyMath */;
+			productType = "com.apple.product-type.tool";
+		};
+		7640C91F297FDB8A000B259B /* Year2022.Day22.MonkeyMap */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7640C924297FDB8C000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day22.MonkeyMap" */;
+			buildPhases = (
+				7640C91C297FDB8A000B259B /* Sources */,
+				7640C91D297FDB8A000B259B /* Frameworks */,
+				7640C91E297FDB8A000B259B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Year2022.Day22.MonkeyMap;
+			productName = Year2022.Day22.MonkeyMap;
+			productReference = 7640C920297FDB8B000B259B /* Year2022.Day22.MonkeyMap */;
+			productType = "com.apple.product-type.tool";
+		};
+		7640C92A297FDB91000B259B /* Year2022.Day23.UnstableDiffusion */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7640C92F297FDB92000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day23.UnstableDiffusion" */;
+			buildPhases = (
+				7640C927297FDB91000B259B /* Sources */,
+				7640C928297FDB91000B259B /* Frameworks */,
+				7640C929297FDB91000B259B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Year2022.Day23.UnstableDiffusion;
+			productName = Year2022.Day23.UnstableDiffusion;
+			productReference = 7640C92B297FDB91000B259B /* Year2022.Day23.UnstableDiffusion */;
+			productType = "com.apple.product-type.tool";
+		};
+		7640C935297FDB97000B259B /* Year2022.Day24.BlizzardBasin */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7640C93A297FDB98000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day24.BlizzardBasin" */;
+			buildPhases = (
+				7640C932297FDB97000B259B /* Sources */,
+				7640C933297FDB97000B259B /* Frameworks */,
+				7640C934297FDB97000B259B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Year2022.Day24.BlizzardBasin;
+			productName = Year2022.Day24.BlizzardBasin;
+			productReference = 7640C936297FDB97000B259B /* Year2022.Day24.BlizzardBasin */;
+			productType = "com.apple.product-type.tool";
+		};
+		7640C940297FDB9E000B259B /* Year2022.Day25.FullOfHotAir */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7640C945297FDB9F000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day25.FullOfHotAir" */;
+			buildPhases = (
+				7640C93D297FDB9E000B259B /* Sources */,
+				7640C93E297FDB9E000B259B /* Frameworks */,
+				7640C93F297FDB9E000B259B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Year2022.Day25.FullOfHotAir;
+			productName = Year2022.Day25.FullOfHotAir;
+			productReference = 7640C941297FDB9E000B259B /* Year2022.Day25.FullOfHotAir */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		765FC487297F54410058CFDA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1420;
+				LastUpgradeCheck = 1420;
+				TargetAttributes = {
+					7640C7A8297FD9DC000B259B = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					7640C843297FDAC4000B259B = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					7640C84E297FDAD2000B259B = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					7640C859297FDADD000B259B = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					7640C864297FDAEA000B259B = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					7640C86F297FDAF2000B259B = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					7640C87A297FDB01000B259B = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					7640C885297FDB0B000B259B = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					7640C890297FDB14000B259B = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					7640C89B297FDB1E000B259B = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					7640C8A6297FDB25000B259B = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					7640C8B1297FDB33000B259B = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					7640C8BC297FDB3C000B259B = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					7640C8C7297FDB45000B259B = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					7640C8D2297FDB50000B259B = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					7640C8DD297FDB59000B259B = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					7640C8E8297FDB61000B259B = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					7640C8F3297FDB69000B259B = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					7640C8FE297FDB6F000B259B = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					7640C909297FDB77000B259B = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					7640C914297FDB82000B259B = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					7640C91F297FDB8A000B259B = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					7640C92A297FDB91000B259B = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					7640C935297FDB97000B259B = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					7640C940297FDB9E000B259B = {
+						CreatedOnToolsVersion = 14.2;
+					};
+				};
+			};
+			buildConfigurationList = 765FC48A297F54410058CFDA /* Build configuration list for PBXProject "Advent-of-code-2022" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 765FC486297F54410058CFDA;
+			productRefGroup = 765FC490297F54410058CFDA /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7640C7A8297FD9DC000B259B /* Year2022.Day01.CalorieCounting */,
+				7640C843297FDAC4000B259B /* Year2022.Day02.RockPaperScissors */,
+				7640C84E297FDAD2000B259B /* Year2022.Day03.RucksackReorganization */,
+				7640C859297FDADD000B259B /* Year2022.Day04.CampCleanup */,
+				7640C864297FDAEA000B259B /* Year2022.Day05.SupplyStacks */,
+				7640C86F297FDAF2000B259B /* Year2022.Day06.TuningTrouble */,
+				7640C87A297FDB01000B259B /* Year2022.Day07.NoSpaceLeftOnDeviec */,
+				7640C885297FDB0B000B259B /* Year2022.Day08.TreetopTreeHouse */,
+				7640C890297FDB14000B259B /* Year2022.Day09.RopeBridge */,
+				7640C89B297FDB1E000B259B /* Year2022.Day10.CathodeRayTube */,
+				7640C8A6297FDB25000B259B /* Year2022.Day11.MonkeyInTheMiddle */,
+				7640C8B1297FDB33000B259B /* Year2022.Day12.HillClimbingAlgorith */,
+				7640C8BC297FDB3C000B259B /* Year2022.Day13.DistressSignal */,
+				7640C8C7297FDB45000B259B /* Year2022.Day14.RegolithReservoir */,
+				7640C8D2297FDB50000B259B /* Year2022.Day15.BeaconExclusionZone */,
+				7640C8DD297FDB59000B259B /* Year2022.Day16.ProboscideaVolcanium */,
+				7640C8E8297FDB61000B259B /* Year2022.Day17.PyroclasticFlow */,
+				7640C8F3297FDB69000B259B /* Year2022.Day18.BoilingBoulders */,
+				7640C8FE297FDB6F000B259B /* Year2022.Day19.NotEnoughMinerals */,
+				7640C909297FDB77000B259B /* Year2022.Day20.GrovePositioningSystem */,
+				7640C914297FDB82000B259B /* Year2022.Day21.MonkeyMath */,
+				7640C91F297FDB8A000B259B /* Year2022.Day22.MonkeyMap */,
+				7640C92A297FDB91000B259B /* Year2022.Day23.UnstableDiffusion */,
+				7640C935297FDB97000B259B /* Year2022.Day24.BlizzardBasin */,
+				7640C940297FDB9E000B259B /* Year2022.Day25.FullOfHotAir */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7640C7A5297FD9DC000B259B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7640C7AC297FD9DC000B259B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C840297FDAC4000B259B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7640C847297FDAC5000B259B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C84B297FDAD2000B259B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7640C852297FDAD2000B259B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C856297FDADD000B259B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7640C85D297FDADE000B259B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C861297FDAEA000B259B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7640C868297FDAEA000B259B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C86C297FDAF2000B259B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7640C873297FDAF2000B259B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C877297FDB01000B259B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7640C87E297FDB01000B259B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C882297FDB0B000B259B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7640C889297FDB0B000B259B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C88D297FDB14000B259B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7640C894297FDB14000B259B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C898297FDB1E000B259B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7640C89F297FDB1F000B259B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C8A3297FDB25000B259B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7640C8AA297FDB26000B259B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C8AE297FDB33000B259B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7640C8B5297FDB34000B259B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C8B9297FDB3C000B259B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7640C8C0297FDB3D000B259B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C8C4297FDB45000B259B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7640C8CB297FDB46000B259B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C8CF297FDB50000B259B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7640C8D6297FDB51000B259B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C8DA297FDB59000B259B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7640C8E1297FDB5A000B259B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C8E5297FDB61000B259B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7640C8EC297FDB62000B259B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C8F0297FDB69000B259B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7640C8F7297FDB69000B259B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C8FB297FDB6F000B259B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7640C902297FDB70000B259B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C906297FDB77000B259B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7640C90D297FDB78000B259B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C911297FDB82000B259B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7640C918297FDB83000B259B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C91C297FDB8A000B259B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7640C923297FDB8C000B259B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C927297FDB91000B259B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7640C92E297FDB92000B259B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C932297FDB97000B259B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7640C939297FDB98000B259B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7640C93D297FDB9E000B259B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7640C944297FDB9F000B259B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		7640C7AE297FD9DC000B259B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		7640C7AF297FD9DC000B259B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		7640C849297FDAC5000B259B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		7640C84A297FDAC5000B259B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		7640C854297FDAD2000B259B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		7640C855297FDAD2000B259B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		7640C85F297FDADE000B259B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		7640C860297FDADE000B259B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		7640C86A297FDAEA000B259B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		7640C86B297FDAEA000B259B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		7640C875297FDAF2000B259B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		7640C876297FDAF2000B259B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		7640C880297FDB01000B259B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		7640C881297FDB01000B259B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		7640C88B297FDB0B000B259B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		7640C88C297FDB0B000B259B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		7640C896297FDB14000B259B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		7640C897297FDB14000B259B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		7640C8A1297FDB1F000B259B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		7640C8A2297FDB1F000B259B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		7640C8AC297FDB26000B259B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		7640C8AD297FDB26000B259B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		7640C8B7297FDB34000B259B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		7640C8B8297FDB34000B259B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		7640C8C2297FDB3D000B259B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		7640C8C3297FDB3D000B259B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		7640C8CD297FDB46000B259B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		7640C8CE297FDB46000B259B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		7640C8D8297FDB51000B259B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		7640C8D9297FDB51000B259B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		7640C8E3297FDB5A000B259B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		7640C8E4297FDB5A000B259B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		7640C8EE297FDB62000B259B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		7640C8EF297FDB62000B259B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		7640C8F9297FDB69000B259B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		7640C8FA297FDB69000B259B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		7640C904297FDB70000B259B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		7640C905297FDB70000B259B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		7640C90F297FDB78000B259B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		7640C910297FDB78000B259B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		7640C91A297FDB83000B259B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		7640C91B297FDB83000B259B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		7640C925297FDB8C000B259B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		7640C926297FDB8C000B259B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		7640C930297FDB92000B259B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		7640C931297FDB92000B259B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		7640C93B297FDB98000B259B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		7640C93C297FDB98000B259B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		7640C946297FDB9F000B259B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		7640C947297FDB9F000B259B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6C4UY789P9;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		765FC494297F54410058CFDA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		765FC495297F54410058CFDA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7640C7AD297FD9DC000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day01.CalorieCounting" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7640C7AE297FD9DC000B259B /* Debug */,
+				7640C7AF297FD9DC000B259B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7640C848297FDAC5000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day02.RockPaperScissors" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7640C849297FDAC5000B259B /* Debug */,
+				7640C84A297FDAC5000B259B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7640C853297FDAD2000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day03.RucksackReorganization" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7640C854297FDAD2000B259B /* Debug */,
+				7640C855297FDAD2000B259B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7640C85E297FDADE000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day04.CampCleanup" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7640C85F297FDADE000B259B /* Debug */,
+				7640C860297FDADE000B259B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7640C869297FDAEA000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day05.SupplyStacks" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7640C86A297FDAEA000B259B /* Debug */,
+				7640C86B297FDAEA000B259B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7640C874297FDAF2000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day06.TuningTrouble" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7640C875297FDAF2000B259B /* Debug */,
+				7640C876297FDAF2000B259B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7640C87F297FDB01000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day07.NoSpaceLeftOnDeviec" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7640C880297FDB01000B259B /* Debug */,
+				7640C881297FDB01000B259B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7640C88A297FDB0B000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day08.TreetopTreeHouse" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7640C88B297FDB0B000B259B /* Debug */,
+				7640C88C297FDB0B000B259B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7640C895297FDB14000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day09.RopeBridge" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7640C896297FDB14000B259B /* Debug */,
+				7640C897297FDB14000B259B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7640C8A0297FDB1F000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day10.CathodeRayTube" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7640C8A1297FDB1F000B259B /* Debug */,
+				7640C8A2297FDB1F000B259B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7640C8AB297FDB26000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day11.MonkeyInTheMiddle" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7640C8AC297FDB26000B259B /* Debug */,
+				7640C8AD297FDB26000B259B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7640C8B6297FDB34000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day12.HillClimbingAlgorith" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7640C8B7297FDB34000B259B /* Debug */,
+				7640C8B8297FDB34000B259B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7640C8C1297FDB3D000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day13.DistressSignal" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7640C8C2297FDB3D000B259B /* Debug */,
+				7640C8C3297FDB3D000B259B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7640C8CC297FDB46000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day14.RegolithReservoir" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7640C8CD297FDB46000B259B /* Debug */,
+				7640C8CE297FDB46000B259B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7640C8D7297FDB51000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day15.BeaconExclusionZone" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7640C8D8297FDB51000B259B /* Debug */,
+				7640C8D9297FDB51000B259B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7640C8E2297FDB5A000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day16.ProboscideaVolcanium" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7640C8E3297FDB5A000B259B /* Debug */,
+				7640C8E4297FDB5A000B259B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7640C8ED297FDB62000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day17.PyroclasticFlow" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7640C8EE297FDB62000B259B /* Debug */,
+				7640C8EF297FDB62000B259B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7640C8F8297FDB69000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day18.BoilingBoulders" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7640C8F9297FDB69000B259B /* Debug */,
+				7640C8FA297FDB69000B259B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7640C903297FDB70000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day19.NotEnoughMinerals" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7640C904297FDB70000B259B /* Debug */,
+				7640C905297FDB70000B259B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7640C90E297FDB78000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day20.GrovePositioningSystem" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7640C90F297FDB78000B259B /* Debug */,
+				7640C910297FDB78000B259B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7640C919297FDB83000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day21.MonkeyMath" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7640C91A297FDB83000B259B /* Debug */,
+				7640C91B297FDB83000B259B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7640C924297FDB8C000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day22.MonkeyMap" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7640C925297FDB8C000B259B /* Debug */,
+				7640C926297FDB8C000B259B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7640C92F297FDB92000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day23.UnstableDiffusion" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7640C930297FDB92000B259B /* Debug */,
+				7640C931297FDB92000B259B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7640C93A297FDB98000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day24.BlizzardBasin" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7640C93B297FDB98000B259B /* Debug */,
+				7640C93C297FDB98000B259B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7640C945297FDB9F000B259B /* Build configuration list for PBXNativeTarget "Year2022.Day25.FullOfHotAir" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7640C946297FDB9F000B259B /* Debug */,
+				7640C947297FDB9F000B259B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		765FC48A297F54410058CFDA /* Build configuration list for PBXProject "Advent-of-code-2022" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				765FC494297F54410058CFDA /* Debug */,
+				765FC495297F54410058CFDA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 765FC487297F54410058CFDA /* Project object */;
+}
