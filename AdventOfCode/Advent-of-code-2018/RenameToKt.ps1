@@ -1,1 +1,1 @@
-get-childitem -recurse -filter "Program.cs" | rename-item -NewName {$_.Name -replace "Program.cs", "Main.kt"}
+get-childitem -recurse -filter "enunciado.md" | rename-item -NewName {$_.Name -replace "enunciado.md", "Enunciado.md"}
