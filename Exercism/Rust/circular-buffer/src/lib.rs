@@ -1,7 +1,11 @@
+use std::{collections::btree_map::IterMut, marker::PhantomData, ptr::null};
+
 pub struct CircularBuffer<T> {
     // We fake using T here, so the compiler does not complain that
     // "parameter `T` is never used". Delete when no longer needed.
-    phantom: std::marker::PhantomData<T>,
+    phantom: PhantomData<T>,
+    array: Vec<T>,
+    capacity: usize,
 }
 
 #[derive(Debug, PartialEq, Eq)]
@@ -12,25 +16,29 @@ pub enum Error {
 
 impl<T> CircularBuffer<T> {
     pub fn new(capacity: usize) -> Self {
-        todo!(
-            "Construct a new CircularBuffer with the capacity to hold {}.",
-            match capacity {
-                1 => "1 element".to_string(),
-                _ => format!("{capacity} elements"),
-            }
-        );
+        Self {
+            phantom: PhantomData,
+            array: Vec::with_capacity(capacity),
+            capacity,
+        }
     }
 
     pub fn write(&mut self, _element: T) -> Result<(), Error> {
-        todo!("Write the passed element to the CircularBuffer or return FullBuffer error if CircularBuffer is full.");
+        if self.array.len() == self.capacity {
+            return Err(Error::FullBuffer);
+        }
+        self.array.push(_element);
+        Ok(())
     }
 
     pub fn read(&mut self) -> Result<T, Error> {
-        todo!("Read the oldest element from the CircularBuffer or return EmptyBuffer error if CircularBuffer is empty.");
+        let result = self.array[0];
+        self.array.remove(0);
+        return Ok(result);
     }
 
     pub fn clear(&mut self) {
-        todo!("Clear the CircularBuffer.");
+        self.array.clear();
     }
 
     pub fn overwrite(&mut self, _element: T) {
