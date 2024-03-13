@@ -1,5 +1,6 @@
-use circular_buffer::{CircularBuffer, Error};
 use std::rc::Rc;
+
+use circular_buffer::{CircularBuffer, Error};
 
 #[test]
 fn error_on_read_empty_buffer() {
@@ -8,7 +9,6 @@ fn error_on_read_empty_buffer() {
 }
 
 #[test]
-#[ignore]
 fn can_read_item_just_written() {
     let mut buffer = CircularBuffer::new(1);
     assert!(buffer.write('1').is_ok());
@@ -16,7 +16,6 @@ fn can_read_item_just_written() {
 }
 
 #[test]
-#[ignore]
 fn each_item_may_only_be_read_once() {
     let mut buffer = CircularBuffer::new(1);
     assert!(buffer.write('1').is_ok());
@@ -25,7 +24,6 @@ fn each_item_may_only_be_read_once() {
 }
 
 #[test]
-#[ignore]
 fn items_are_read_in_the_order_they_are_written() {
     let mut buffer = CircularBuffer::new(2);
     assert!(buffer.write('1').is_ok());
@@ -36,7 +34,6 @@ fn items_are_read_in_the_order_they_are_written() {
 }
 
 #[test]
-#[ignore]
 fn full_buffer_cant_be_written_to() {
     let mut buffer = CircularBuffer::new(1);
     assert!(buffer.write('1').is_ok());
@@ -44,7 +41,6 @@ fn full_buffer_cant_be_written_to() {
 }
 
 #[test]
-#[ignore]
 fn read_frees_up_capacity_for_another_write() {
     let mut buffer = CircularBuffer::new(1);
     assert!(buffer.write('1').is_ok());
@@ -54,7 +50,6 @@ fn read_frees_up_capacity_for_another_write() {
 }
 
 #[test]
-#[ignore]
 fn read_position_is_maintained_even_across_multiple_writes() {
     let mut buffer = CircularBuffer::new(3);
     assert!(buffer.write('1').is_ok());
@@ -66,7 +61,6 @@ fn read_position_is_maintained_even_across_multiple_writes() {
 }
 
 #[test]
-#[ignore]
 fn items_cleared_out_of_buffer_cant_be_read() {
     let mut buffer = CircularBuffer::new(1);
     assert!(buffer.write('1').is_ok());
@@ -75,7 +69,6 @@ fn items_cleared_out_of_buffer_cant_be_read() {
 }
 
 #[test]
-#[ignore]
 fn clear_frees_up_capacity_for_another_write() {
     let mut buffer = CircularBuffer::new(1);
     assert!(buffer.write('1').is_ok());
@@ -85,7 +78,6 @@ fn clear_frees_up_capacity_for_another_write() {
 }
 
 #[test]
-#[ignore]
 fn clear_does_nothing_on_empty_buffer() {
     let mut buffer = CircularBuffer::new(1);
     buffer.clear();
@@ -94,7 +86,6 @@ fn clear_does_nothing_on_empty_buffer() {
 }
 
 #[test]
-#[ignore]
 fn clear_actually_frees_up_its_elements() {
     let mut buffer = CircularBuffer::new(1);
     let element = Rc::new(());
@@ -105,7 +96,6 @@ fn clear_actually_frees_up_its_elements() {
 }
 
 #[test]
-#[ignore]
 fn overwrite_acts_like_write_on_non_full_buffer() {
     let mut buffer = CircularBuffer::new(2);
     assert!(buffer.write('1').is_ok());
@@ -116,7 +106,6 @@ fn overwrite_acts_like_write_on_non_full_buffer() {
 }
 
 #[test]
-#[ignore]
 fn overwrite_replaces_the_oldest_item_on_full_buffer() {
     let mut buffer = CircularBuffer::new(2);
     assert!(buffer.write('1').is_ok());
@@ -127,7 +116,6 @@ fn overwrite_replaces_the_oldest_item_on_full_buffer() {
 }
 
 #[test]
-#[ignore]
 fn overwrite_replaces_the_oldest_item_remaining_in_buffer_following_a_read() {
     let mut buffer = CircularBuffer::new(3);
     assert!(buffer.write('1').is_ok());
@@ -142,7 +130,6 @@ fn overwrite_replaces_the_oldest_item_remaining_in_buffer_following_a_read() {
 }
 
 #[test]
-#[ignore]
 fn dropping_the_buffer_drops_its_elements() {
     let element = Rc::new(());
     {
@@ -154,7 +141,6 @@ fn dropping_the_buffer_drops_its_elements() {
 }
 
 #[test]
-#[ignore]
 fn integer_buffer() {
     let mut buffer = CircularBuffer::new(2);
     assert!(buffer.write(1).is_ok());
@@ -167,7 +153,6 @@ fn integer_buffer() {
 }
 
 #[test]
-#[ignore]
 fn string_buffer() {
     let mut buffer = CircularBuffer::new(2);
     buffer.write("".to_string()).unwrap();

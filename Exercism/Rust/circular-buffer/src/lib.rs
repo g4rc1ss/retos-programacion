@@ -32,9 +32,10 @@ impl<T> CircularBuffer<T> {
     }
 
     pub fn read(&mut self) -> Result<T, Error> {
-        let result = self.array[0];
-        self.array.remove(0);
-        return Ok(result);
+        if self.array.len() > 0 {
+            return Ok(self.array.remove(0));
+        }
+        Err(Error::EmptyBuffer)
     }
 
     pub fn clear(&mut self) {
