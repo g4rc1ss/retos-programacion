@@ -43,6 +43,9 @@ impl<T> CircularBuffer<T> {
     }
 
     pub fn overwrite(&mut self, _element: T) {
-        todo!("Write the passed element to the CircularBuffer, overwriting the existing elements if CircularBuffer is full.");
+        if self.array.len() == self.capacity {
+            self.array.remove(0);
+        }
+        self.array.push(_element)
     }
 }
