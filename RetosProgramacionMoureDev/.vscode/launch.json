@@ -8,6 +8,12 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "com.heterograma.isograma.pangrama.Main"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "com.heterograma.isograma.pangrama.Main",
             "projectName": "heterograma_isograma_pangrama"
         }
