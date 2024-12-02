@@ -1,1 +1,0 @@
-get-childitem -recurse -filter "Program.cs" | rename-item -NewName {$_.Name -replace "Program.cs", "main.py"}
