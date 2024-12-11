@@ -3,13 +3,13 @@ using _09_disk_fragmenter;
 
 
 var text = await File.ReadAllLinesAsync("./input.txt");
-var textMock = "2333133121414131402"
-    .Split(Environment.NewLine);
+var textMock = new[] { "2333133121414131402" };
+// var textMock = new[] { "12345" };
 
 var exercise = new Exercise();
 
 var stopwatch = Stopwatch.StartNew();
-var part1 = exercise.Part1(textMock);
+var part1 = exercise.Part1(text);
 var part2 = exercise.Part2(textMock);
 stopwatch.Stop();
 
