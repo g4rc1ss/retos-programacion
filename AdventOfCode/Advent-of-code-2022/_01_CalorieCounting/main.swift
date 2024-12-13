@@ -14,7 +14,7 @@ let totalCaloriasElfos = getTotalCaloriasElfos(text: text)
 
 // -------------------------- PRIMER EJERCICIO ------------------------- \\
 
-print("Primera respuesta: \(totalCaloriasElfos.max())")
+print("Primera respuesta: \(totalCaloriasElfos.max() ?? 0)")
 
 
 // -------------------------- SEGUNDO EJERCICIO ------------------------- \\
