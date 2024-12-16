@@ -1,0 +1,15 @@
+{
+  "name": "02_rock_paper_scissors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.5.3",
+    "@types/node": "^22.10.2"
+  },
+  "private": true
+}
