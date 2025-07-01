@@ -8,6 +8,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Solution items", "_Solutio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoTerminal", "AccesoTerminal\AccesoTerminal.csproj", "{80F9AC5A-48D7-42D5-BCB8-E472522DC7DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvitandoCaosRed", "EvitandoCaosRed\EvitandoCaosRed.csproj", "{8BC4BB19-0859-40F1-8694-9AB30C2F5F88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{80F9AC5A-48D7-42D5-BCB8-E472522DC7DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80F9AC5A-48D7-42D5-BCB8-E472522DC7DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80F9AC5A-48D7-42D5-BCB8-E472522DC7DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BC4BB19-0859-40F1-8694-9AB30C2F5F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BC4BB19-0859-40F1-8694-9AB30C2F5F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BC4BB19-0859-40F1-8694-9AB30C2F5F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BC4BB19-0859-40F1-8694-9AB30C2F5F88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
