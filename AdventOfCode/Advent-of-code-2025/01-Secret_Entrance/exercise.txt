@@ -1,0 +1,58 @@
+--- Día 1: Entrada secreta ---
+
+Los Elfos tienen buenas y malas noticias.
+
+La buena noticia es que han descubiertoGestión de proyectos¡! Esto les ha dado las herramientas que necesitan para evitar su habitual emergencia navideña. Por ejemplo, ahora saben que las decoraciones del Polo Norte deben terminarse pronto para que otras tareas críticas puedan comenzar a tiempo.
+
+La mala noticia es que se han dado cuenta de que tienen una emergencia diferente: según su planificación de recursos, ¡a ninguno de ellos le queda tiempo para decorar el Polo Norte!
+
+Para salvar la Navidad, los Elfos necesitan que termines de decorar el Polo Norte antes del 12 de diciembre.
+
+Recoge estrellas resolviendo rompecabezas. Dos rompecabezas estarán disponibles cada día; el segundo rompecabezas se desbloquea cuando completas el primero. Cada rompecabezas otorga una estrella. ¡Buena suerte!
+
+Llegas a la entrada secreta a la base del Polo Norte listo para comenzar a decorar. Desafortunadamente, la contraseña parece haber sido cambiada, por lo que no puedes entrar. Un documento pegado a la pared explica de forma útil:
+
+"Debido a los nuevos protocolos de seguridad, la contraseña está bloqueada en la caja fuerte a continuación. Por favor, consulte el documento adjunto para la nueva combinación".
+
+The safe has a dial with only an arrow on it; around the dial are the numbers 0 through 99 in order. As you turn the dial, it makes a small click noise as it reaches each number.
+
+The attached document (your puzzle input) contains a sequence of rotations, one per line, which tell you how to open the safe. A rotation starts with an L or R which indicates whether the rotation should be to the left (toward lower numbers) or to the right (toward higher numbers). Then, the rotation has a distance value which indicates how many clicks the dial should be rotated in that direction.
+
+So, if the dial were pointing at 11, a rotation of R8 would cause the dial to point at 19. After that, a rotation of L19 would cause it to point at 0.
+
+Because the dial is a circle, turning the dial left from 0 one click makes it point at 99. Similarly, turning the dial right from 99 one click makes it point at 0.
+
+So, if the dial were pointing at 5, a rotation of L10 would cause it to point at 95. After that, a rotation of R5 could cause it to point at 0.
+
+El dial comienza apuntando a 50.
+
+You could follow the instructions, but your recent required official North Pole secret entrance security training seminar taught you that the safe is actually a decoy. The actual password is the number of times the dial is left pointing at 0 after any rotation in the sequence.
+
+Por ejemplo, supongamos que el documento adjunto contiene las siguientes rotaciones:
+
+L68
+L30
+R48
+L5
+R60
+L55
+L1
+L99
+R14
+L82
+Seguir estas rotaciones haría que el dial se moviera de la siguiente manera:
+
+El dial comienza apuntando a 50.
+The dial is rotated L68 to point at 82.
+The dial is rotated L30 to point at 52.
+The dial is rotated R48 to point at 0.
+The dial is rotated L5 to point at 95.
+The dial is rotated R60 to point at 55.
+The dial is rotated L55 to point at 0.
+The dial is rotated L1 to point at 99.
+The dial is rotated L99 to point at 0.
+The dial is rotated R14 to point at 14.
+The dial is rotated L82 to point at 32.
+Because the dial points at 0 a total of three times during this process, the password in this example is 3.
+
+Analice las rotaciones en su documento adjunto. ¿Cuál es la contraseña real para abrir la puerta?
